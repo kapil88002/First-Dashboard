@@ -1,0 +1,22 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    font-family:"Times New Roman", Times, serif;
+    background-color:azure;
+    color: #111;
+}   
+h1,h2{
+    text-align: centre;
+    margin: 1.25 =rem 0 0.25rem 0;
+}
+.chart-container {
+    width: 1000px;
+    height:600px
+
+canvas{
+    border: 3px solid black;
+} 
+
